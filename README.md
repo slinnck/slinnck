@@ -1,5 +1,5 @@
 # 💫Sobre mim:
-🌱 Atualmente estudando Vue.js & SpringBoot, JPA, JWT, PostgreSQL;
+🌱 Atualmente estudando SpringBoot, JPA, JWT, PostgreSQL;
 
 📫 E-mail para contato: misael.oliver2015@gmail.com;
 
